@@ -1,1 +1,1 @@
-worker: npm start && pm2 start && node index.js
+worker: npm start && node pepex.js
